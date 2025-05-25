@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agripulse/static/css/main.ae42ac5f.css",
+    "main.js": "/agripulse/static/js/main.64d9a0bd.js",
+    "index.html": "/agripulse/index.html",
+    "main.ae42ac5f.css.map": "/agripulse/static/css/main.ae42ac5f.css.map",
+    "main.64d9a0bd.js.map": "/agripulse/static/js/main.64d9a0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.64d9a0bd.js"
+  ]
+}
