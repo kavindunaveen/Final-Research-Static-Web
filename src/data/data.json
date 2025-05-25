@@ -1,0 +1,215 @@
+{
+  "Header": {
+    "title": "Agri Pulse",
+    "paragraph": "Agri Pulse: Smart Greenhouse System for Precision Agriculture and Sustainable Crop Production"
+  },
+  "About": {
+    "paragraph": "Agri Pulse is an intelligent greenhouse management platform designed to enhance agricultural efficiency through IoT-based climate control, lighting optimization, and predictive irrigation. Our system leverages machine learning, real-time sensor data, and solar energy to create an automated, off-grid solution that empowers farmers to cultivate healthier plants while minimizing water, energy, and labor costs.",
+    "Why": [
+      "IoT-enabled real-time environmental monitoring",
+      "Predictive climate control and ventilation",
+      "Automated LED lighting spectrum adjustment",
+      "Data-driven irrigation based on soil moisture levels"
+    ],
+    "Why2": [
+      "Dual-axis solar tracking for energy efficiency",
+      "Battery backup for off-grid continuity",
+      "AI models for light and energy prediction",
+      "Remote dashboard with user notifications"
+    ]
+  },
+
+   "ProjectProposalDocuments": [
+    {
+      "title": "Project Proposal - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://docs.google.com/presentation/d/1JVZuJB_Ofz1wrr8FlFQlp35ENlU_NKW7/edit?usp=drive_link&ouid=104463660018252941570&rtpof=true&sd=true"
+    },
+    {
+      "title": "Project Proposal - Kavindu Naveen Premathilake",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1oSjFHJ9tSQOgG38kZHMsYPR-RpBTeLPO/view?usp=drive_link"
+    },
+       {
+      "title": "Project Proposal - Irushi Malshika",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1gPkSprDBPaashSNf2qdEbt5zVDpnbrwZ/view?usp=drive_link"
+    },
+       {
+      "title": "Project Proposal - Sewwandi Weerasinghe",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1ZWzIFgSKufr1Lyx-YKcfAdZI3zbe5xrj/view?usp=drive_link"
+    }
+   
+  ],
+
+   "ProgressPresOne": [
+    {
+      "title": "Progress Presentation 1 - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/teamss.png",
+      "url":"https://docs.google.com/presentation/d/1H2U5p8F5xOuQdZaNdytyyMIWIB8Ub9F4/edit?usp=drive_link&ouid=104463660018252941570&rtpof=true&sd=true"
+    }
+   
+  ],
+  "ResearchPaper": [
+    {
+      "title": "Reseach Paper - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/teamss.png",
+      "url":"https://drive.google.com/file/d/1KmjHd1SyOgakWUby-OfoxtcG3BiT26Wb/view?usp=drive_link"
+    }
+   
+  ],
+  "ProgressPresTwo": [
+    {
+      "title": "Progress Presentation 2 - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1oKUqIA_tAe407R3kY6liiifZNOIMAvuz/view?usp=drive_link"
+    }
+   
+  ],
+
+  "FinalReps": [
+    {
+      "title": "Final Report - Team",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1NdfLzDpWRsAZl3bNYx7yzPcmkScMjbFP/view?usp=drive_link"
+    },
+    {
+      "title": "Final Report -Kavindu Naveen Premathilake",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/16YvuBMQpaOkMsNW1DRQSUkB46mF5YeJR/view?usp=drive_link"
+    },
+    {
+      "title": "Final Report - Irushi Malshika",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1O7b-dispZL4kvCGypLsGbkCyigYrPtk9/view?usp=drive_link"
+    },
+    {
+      "title": "Final Report - Sewwandi Weerasinghe",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url":"https://drive.google.com/file/d/1Hb48hwCbk_-cNBWbCvd3ouhwm3Au2QsS/view?usp=drive_link"
+    }
+   
+  ],
+
+  "Features": [
+    {
+      "icon": "fa fa-cogs",
+      "title": "IoT Climate Control",
+      "text": "Automated adjustment of temperature and humidity using real-time feedback loops, improving crop yield and energy savings."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Smart Lighting System",
+      "text": "RGB LED lighting adjusted dynamically for photosynthesis using ML-predicted optimal light spectrums."
+    },
+    {
+      "icon": "fa fa-tint",
+      "title": "Automated Irrigation",
+      "text": "Soil-moisture-based water control minimizes water usage while ensuring proper hydration for each plant."
+    },
+    {
+      "icon": "fa fa-sun-o",
+      "title": "Solar Energy Integration",
+      "text": "Dual-axis solar tracking boosts energy harvest by 27\u201332%, enabling sustainable off-grid operation."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "title": "Predictive Energy Management",
+      "text": "XGBoost ML model forecasts daily solar energy availability and schedules high-energy tasks efficiently."
+    },
+    {
+      "icon": "fa fa-database",
+      "title": "Data Dashboard",
+      "text": "Web-based interface provides real-time visualization, alerts, and manual control options for greenhouse systems."
+    }
+  ],
+"Testimonials": [
+  {
+    "name": "Python",
+    "logo": "/img/testimonials/python.png",
+    "link": "https://www.python.org/"
+  },
+  {
+    "name": "React",
+    "logo": "img/testimonials/react.jpg",
+    "link": "https://react.dev/"
+  },
+  {
+    "name": "Firebase",
+    "logo": "img/testimonials/icons8-firebase-48.png",
+    "link": "https://firebase.google.com/"
+  },
+
+  {
+    "name": "Jupyter",
+    "logo": "img/testimonials/icons8-jupyter-48.png",
+    "link": "https://jupyter.org/"
+  },
+  {
+    "name": "Arduino UNO",
+    "logo": "img/testimonials/icons8-arduino-uno-board-80.png",
+    "link": "https://www.arduino.cc/"
+  }
+],
+
+"Team": [
+    {
+      "img": "img/team/thamali.png",
+      "name": "Mrs. Thamali Kelegama",
+      "job": "Supervisor"
+    },
+    {
+      "img": "img/team/cosupervisor.png",
+      "name": "Ms. Aparna Jayawardena",
+      "job": "Co-supervisor"
+    },
+    {
+      "img": "img/team/irushi.png",
+      "name": "Irushi Malshika",
+      "job": "Leader"
+    },
+    {
+      "img": "img/team/kavindu.png",
+      "name": "Kavindu Naveen",
+      "job": "Team Member"
+    },
+    {
+      "img": "img/team/sewwandi.png",
+      "name": "Sewwandi Weerasinghe",
+      "job": "Team Member"
+    }
+  ],
+
+  "Features2": [
+    {
+      "icon": "fa fa-question",
+      "title": "Research Question",
+      "text": "How can predictive automation, IoT, and solar energy be integrated to optimize greenhouse farming in tropical regions like Sri Lanka?"
+    },
+    {
+      "icon": "fa fa-search",
+      "title": "Research Objective",
+      "text": "To develop a scalable Smart Greenhouse system using IoT and machine learning that automates climate, lighting, and irrigation for sustainable agriculture."
+    }
+  ],
+  "Contact": {
+    "address": "Sri Lanka Institute of Information Technology, Malabe, Sri Lanka",
+    "phone": "+94 71 370 2074",
+    "email": "info@agripulse.lk",
+    "facebook": "https://facebook.com/agripulse",
+    "twitter": "https://twitter.com/agripulse",
+    "youtube": "https://youtube.com/@agripulse"
+  }
+}
